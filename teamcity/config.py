@@ -1,9 +1,9 @@
 # Teamcity configurations
 SERVER_PROTCOL = "http"  # XXXXXX
 SERVER_HOST = "localhost"  # XXXXXX
-SERVER_PORT = 8111  # XXXXXX
-SERVER_USER = "sandeep"  # XXXXXX
-SERVER_PASSWORD = "xxxxxx"  # XXXXXX
+SERVER_PORT = 9090  # XXXXXX
+SERVER_USER = "Sandeep Chintala"  # XXXXXX
+SERVER_PASSWORD = "Srinivas"  # XXXXXX
 
 SERVER_URL = "{0}://{1}:{2}".format(SERVER_PROTCOL, SERVER_HOST, SERVER_PORT)
 
