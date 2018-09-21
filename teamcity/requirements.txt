@@ -17,7 +17,7 @@ pyteamcity==0.1.1
 python-dateutil==2.7.3
 pytz==2018.4
 requests==2.19.0
-rope==0.10.7
+rope==0.11.0
 singledispatch==3.4.0.3
 six==1.11.0
 urllib3==1.23
