@@ -1,5 +1,8 @@
 # Jenkins and Teamcity Test
 
+hello world
+this is a test file
+
 Test scripts for learning jenkins and teamcity API.
 
 1. *Connect to server test:* Connect to jenkins and Teamcity server
